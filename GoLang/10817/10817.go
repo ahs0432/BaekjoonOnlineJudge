@@ -18,4 +18,5 @@ func main() {
 	})
 
 	fmt.Println(table[1])
+
 }
